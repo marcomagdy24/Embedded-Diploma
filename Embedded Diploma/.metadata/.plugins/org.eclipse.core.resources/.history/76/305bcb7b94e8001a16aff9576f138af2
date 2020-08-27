@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main( )
+{
+    int num;
+    printf("Enter a number to check : ");
+    fflush(stdout);
+    scanf("%d",&num);
+    (num % 2) ?  printf("%d is Even",num) : printf("%d is Odd",num);
+    return 0;
+}

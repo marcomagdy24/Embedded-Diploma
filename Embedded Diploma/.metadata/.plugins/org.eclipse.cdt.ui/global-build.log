@@ -1,0 +1,518 @@
+20:36:33 **** Clean-only build of configuration Debug for project swap_without_temp ****
+rm -rf src/swap_without_temp.o src/swap_without_temp.d swap_without_temp.exe 
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+20:36:42 **** Incremental Build of configuration Debug for project check_even_odd ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\check_even_odd.o" "..\\src\\check_even_odd.c" 
+..\src\check_even_odd.c: In function 'main':
+..\src\check_even_odd.c:7:17: error: 'num' undeclared (first use in this function)
+     scanf("%d",&num);
+                 ^~~
+..\src\check_even_odd.c:7:17: note: each undeclared identifier is reported only once for each function it appears in
+..\src\check_even_odd.c:4:9: warning: unused variable 'num1' [-Wunused-variable]
+     int num1;
+         ^~~~
+Info: Nothing to build for enter_integer
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+20:36:42 **** Rebuild of configuration Debug for project swap_without_temp ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\swap_without_temp.o" "..\\src\\swap_without_temp.c" 
+gcc -o swap_without_temp.exe "src\\swap_without_temp.o" 
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+20:36:55 **** Incremental Build of configuration Debug for project check_even_odd ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\check_even_odd.o" "..\\src\\check_even_odd.c" 
+gcc -o check_even_odd.exe "src\\check_even_odd.o" 
+Info: Nothing to build for enter_integer
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+20:38:11 **** Incremental Build of configuration Debug for project check_even_odd ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\check_even_odd.o" "..\\src\\check_even_odd.c" 
+gcc -o check_even_odd.exe "src\\check_even_odd.o" 
+Info: Nothing to build for enter_integer
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+20:38:27 **** Incremental Build of configuration Debug for project check_even_odd ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\check_even_odd.o" "..\\src\\check_even_odd.c" 
+gcc -o check_even_odd.exe "src\\check_even_odd.o" 
+Info: Nothing to build for enter_integer
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+20:39:57 **** Incremental Build of configuration Debug for project check_even_odd ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\check_even_odd.o" "..\\src\\check_even_odd.c" 
+..\src\check_even_odd.c: In function 'main':
+..\src\check_even_odd.c:8:14: warning: format '%f' expects argument of type 'double', but argument 2 has type 'int' [-Wformat=]
+     printf("%f", 2%-8);
+              ^
+gcc -o check_even_odd.exe "src\\check_even_odd.o" 
+Info: Nothing to build for enter_integer
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+20:40:27 **** Incremental Build of configuration Debug for project check_even_odd ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\check_even_odd.o" "..\\src\\check_even_odd.c" 
+gcc -o check_even_odd.exe "src\\check_even_odd.o" 
+Info: Nothing to build for enter_integer
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+20:41:04 **** Incremental Build of configuration Debug for project check_even_odd ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\check_even_odd.o" "..\\src\\check_even_odd.c" 
+gcc -o check_even_odd.exe "src\\check_even_odd.o" 
+Info: Nothing to build for enter_integer
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+20:41:19 **** Incremental Build of configuration Debug for project check_even_odd ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\check_even_odd.o" "..\\src\\check_even_odd.c" 
+gcc -o check_even_odd.exe "src\\check_even_odd.o" 
+Info: Nothing to build for enter_integer
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+20:46:45 **** Incremental Build of configuration Debug for project check_even_odd ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\check_even_odd.o" "..\\src\\check_even_odd.c" 
+gcc -o check_even_odd.exe "src\\check_even_odd.o" 
+Info: Nothing to build for enter_integer
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+Info: Nothing to build for check_even_odd
+20:48:05 **** Rebuild of configuration Debug for project check_vowel ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\check_vowel.o" "..\\src\\check_vowel.c" 
+..\src\check_vowel.c: In function 'main':
+..\src\check_vowel.c:7:13: warning: format '%d' expects argument of type 'int *', but argument 2 has type 'char *' [-Wformat=]
+     scanf("%d",&CHAR);
+             ^
+gcc -o check_vowel.exe "src\\check_vowel.o" 
+Info: Nothing to build for enter_integer
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+Info: Nothing to build for check_even_odd
+20:48:12 **** Incremental Build of configuration Debug for project check_vowel ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\check_vowel.o" "..\\src\\check_vowel.c" 
+gcc -o check_vowel.exe "src\\check_vowel.o" 
+Info: Nothing to build for enter_integer
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for check_vowel
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+Info: Nothing to build for check_even_odd
+20:49:25 **** Incremental Build of configuration Debug for project check_vowel ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\check_vowel.o" "..\\src\\check_vowel.c" 
+gcc -o check_vowel.exe "src\\check_vowel.o" 
+Info: Nothing to build for enter_integer
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for check_vowel
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+Info: Nothing to build for check_even_odd
+20:49:55 **** Incremental Build of configuration Debug for project check_vowel ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\check_vowel.o" "..\\src\\check_vowel.c" 
+gcc -o check_vowel.exe "src\\check_vowel.o" 
+Info: Nothing to build for enter_integer
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for check_vowel
+Info: Nothing to build for check_vowel
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for check_vowel
+Info: Nothing to build for enter_integer
+20:52:19 **** Rebuild of configuration Debug for project maximum ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\maximum.o" "..\\src\\maximum.c" 
+..\src\maximum.c: In function 'main':
+..\src\maximum.c:8:13: error: expected expression before ')' token
+     if (x > )
+             ^
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for check_vowel
+Info: Nothing to build for enter_integer
+20:53:46 **** Incremental Build of configuration Debug for project maximum ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\maximum.o" "..\\src\\maximum.c" 
+gcc -o maximum.exe "src\\maximum.o" 
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for maximum
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for check_vowel
+Info: Nothing to build for enter_integer
+20:54:35 **** Incremental Build of configuration Debug for project maximum ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\maximum.o" "..\\src\\maximum.c" 
+gcc -o maximum.exe "src\\maximum.o" 
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for maximum
+Info: Nothing to build for maximum
+Info: Nothing to build for maximum
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+Info: Nothing to build for check_even_odd
+20:57:50 **** Rebuild of configuration Debug for project check_positive_negative ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\check_positive_negative.o" "..\\src\\check_positive_negative.c" 
+gcc -o check_positive_negative.exe "src\\check_positive_negative.o" 
+Info: Nothing to build for check_vowel
+Info: Nothing to build for enter_integer
+Info: Nothing to build for maximum
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for check_positive_negative
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+Info: Nothing to build for check_even_odd
+20:58:02 **** Incremental Build of configuration Debug for project check_positive_negative ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\check_positive_negative.o" "..\\src\\check_positive_negative.c" 
+gcc -o check_positive_negative.exe "src\\check_positive_negative.o" 
+Info: Nothing to build for check_vowel
+Info: Nothing to build for enter_integer
+Info: Nothing to build for maximum
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for check_positive_negative
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+21:09:00 **** Rebuild of configuration Debug for project check_char ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\check_char.o" "..\\src\\check_char.c" 
+gcc -o check_char.exe "src\\check_char.o" 
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for check_positive_negative
+Info: Nothing to build for check_vowel
+Info: Nothing to build for enter_integer
+Info: Nothing to build for maximum
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for check_char
+Info: Nothing to build for check_char
+21:11:37 **** Rebuild of configuration Debug for project Sum ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sum.o" "..\\src\\Sum.c" 
+..\src\Sum.c: In function 'main':
+..\src\Sum.c:21:1: error: expected ';' before '}' token
+ }
+ ^
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+Info: Nothing to build for check_char
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for check_positive_negative
+Info: Nothing to build for check_vowel
+Info: Nothing to build for enter_integer
+Info: Nothing to build for maximum
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+21:11:51 **** Incremental Build of configuration Debug for project Sum ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sum.o" "..\\src\\Sum.c" 
+..\src\Sum.c: In function 'main':
+..\src\Sum.c:21:1: error: expected ';' before '}' token
+ }
+ ^
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+Info: Nothing to build for check_char
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for check_positive_negative
+Info: Nothing to build for check_vowel
+Info: Nothing to build for enter_integer
+Info: Nothing to build for maximum
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+21:11:56 **** Incremental Build of configuration Debug for project Sum ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sum.o" "..\\src\\Sum.c" 
+..\src\Sum.c: In function 'main':
+..\src\Sum.c:21:1: error: expected ';' before '}' token
+ }
+ ^
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+Info: Nothing to build for check_char
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for check_positive_negative
+Info: Nothing to build for check_vowel
+Info: Nothing to build for enter_integer
+Info: Nothing to build for maximum
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+21:12:00 **** Incremental Build of configuration Debug for project Sum ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sum.o" "..\\src\\Sum.c" 
+gcc -o Sum.exe "src\\Sum.o" 
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+Info: Nothing to build for check_char
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for check_positive_negative
+Info: Nothing to build for check_vowel
+Info: Nothing to build for enter_integer
+Info: Nothing to build for maximum
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for Sum
+21:13:05 **** Incremental Build of configuration Debug for project Sum ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sum.o" "..\\src\\Sum.c" 
+gcc -o Sum.exe "src\\Sum.o" 
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+Info: Nothing to build for check_char
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for check_positive_negative
+Info: Nothing to build for check_vowel
+Info: Nothing to build for enter_integer
+Info: Nothing to build for maximum
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for Sum
+Info: Nothing to build for Sum
+21:15:39 **** Incremental Build of configuration Debug for project Sum ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\Sum.o" "..\\src\\Sum.c" 
+gcc -o Sum.exe "src\\Sum.o" 
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+Info: Nothing to build for check_char
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for check_positive_negative
+Info: Nothing to build for check_vowel
+Info: Nothing to build for enter_integer
+21:15:39 **** Rebuild of configuration Debug for project factorial ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\factorial.o" "..\\src\\factorial.c" 
+gcc -o factorial.exe "src\\factorial.o" 
+Info: Nothing to build for maximum
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for Sum
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+Info: Nothing to build for check_char
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for check_positive_negative
+Info: Nothing to build for check_vowel
+Info: Nothing to build for enter_integer
+21:15:43 **** Incremental Build of configuration Debug for project factorial ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\factorial.o" "..\\src\\factorial.c" 
+gcc -o factorial.exe "src\\factorial.o" 
+Info: Nothing to build for maximum
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for Sum
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+Info: Nothing to build for check_char
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for check_positive_negative
+Info: Nothing to build for check_vowel
+Info: Nothing to build for enter_integer
+21:16:06 **** Incremental Build of configuration Debug for project factorial ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\factorial.o" "..\\src\\factorial.c" 
+gcc -o factorial.exe "src\\factorial.o" 
+Info: Nothing to build for maximum
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for Sum
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+Info: Nothing to build for check_char
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for check_positive_negative
+Info: Nothing to build for check_vowel
+Info: Nothing to build for enter_integer
+21:19:23 **** Incremental Build of configuration Debug for project factorial ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\factorial.o" "..\\src\\factorial.c" 
+gcc -o factorial.exe "src\\factorial.o" 
+Info: Nothing to build for maximum
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for factorial
+Info: Nothing to build for factorial
+Info: Nothing to build for factorial
+Info: Nothing to build for factorial
+Info: Nothing to build for Sum
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+21:30:08 **** Rebuild of configuration Debug for project calculator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\calculator.o" "..\\src\\calculator.c" 
+..\src\calculator.c: In function 'main':
+..\src\calculator.c:9:12: error: invalid operands to binary & (have 'char *' and 'int')
+  scanf("%c"&op);
+        ~~~~^
+Info: Nothing to build for check_char
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for check_positive_negative
+Info: Nothing to build for check_vowel
+Info: Nothing to build for enter_integer
+Info: Nothing to build for factorial
+Info: Nothing to build for maximum
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for Sum
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+21:30:27 **** Incremental Build of configuration Debug for project calculator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\calculator.o" "..\\src\\calculator.c" 
+..\src\calculator.c: In function 'main':
+..\src\calculator.c:9:12: error: invalid operands to binary & (have 'char *' and 'int')
+  scanf("%c"&op);
+        ~~~~^
+Info: Nothing to build for check_char
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for check_positive_negative
+Info: Nothing to build for check_vowel
+Info: Nothing to build for enter_integer
+Info: Nothing to build for factorial
+Info: Nothing to build for maximum
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for Sum
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+21:30:35 **** Incremental Build of configuration Debug for project calculator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\calculator.o" "..\\src\\calculator.c" 
+gcc -o calculator.exe "src\\calculator.o" 
+Info: Nothing to build for check_char
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for check_positive_negative
+Info: Nothing to build for check_vowel
+Info: Nothing to build for enter_integer
+Info: Nothing to build for factorial
+Info: Nothing to build for maximum
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for Sum
+Info: Nothing to build for ascii
+Info: Nothing to build for c_Programming
+21:32:41 **** Incremental Build of configuration Debug for project calculator ****
+Info: Internal Builder is used for build
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -o "src\\calculator.o" "..\\src\\calculator.c" 
+gcc -o calculator.exe "src\\calculator.o" 
+Info: Nothing to build for check_char
+Info: Nothing to build for check_even_odd
+Info: Nothing to build for check_positive_negative
+Info: Nothing to build for check_vowel
+Info: Nothing to build for enter_integer
+Info: Nothing to build for factorial
+Info: Nothing to build for maximum
+Info: Nothing to build for multiply_float
+Info: Nothing to build for sum_integer
+Info: Nothing to build for swap
+Info: Nothing to build for swap_without_temp
+Info: Nothing to build for calculator

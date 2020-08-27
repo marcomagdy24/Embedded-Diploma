@@ -1,0 +1,10 @@
+#include <stdio.h>
+int main( )
+{
+    float num1, num2;
+    printf("Enter two numbers: ");
+    fflush(stdout);
+    scanf("%f %f",&num1,&num2);        /* Stores the two floating point numbers entered by user in variable num1 and num2 respectively */
+    printf("Product: %f",num1*num2);
+    return 0;
+}
