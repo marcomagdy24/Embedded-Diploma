@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename resource &apos;swap/src/swap_without_temp&apos; to &apos;swap_without_temp.c&apos;" description="Rename resource &apos;swap_without_temp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/swap_without_temp" name="swap_without_temp.c" stamp="1598551231843" updateReferences="true"/>
-</session>
