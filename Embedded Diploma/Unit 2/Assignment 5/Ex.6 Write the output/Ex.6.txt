@@ -1,0 +1,7 @@
+Size of Union = 32
+Size of Structure = 40
+
+
+
+Look at the trick in the code 
+Aligned and Un-Aligned Data
